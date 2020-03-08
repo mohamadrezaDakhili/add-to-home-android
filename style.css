@@ -20,7 +20,7 @@ body{
 }
 
 #text_top{
-    /* margin: 10% 10% 0; */
+    margin: 0 10% 0;
     font-size: 5vw;
     font-weight: 500;
     color: #858585;
@@ -60,15 +60,16 @@ hr{
 }
 
 .textObject{
-    font-size: 3vw;
+    font-size: 3.8vw;
     color: #858585;
     text-align: right;
-    margin: 25px 0 0;
+    margin: 7% 0 0;
 }
 
-#image_text{
-    margin: 0 5px;
+.marginImage{
+    margin: 0 3px;
 }
+
 
 @media screen and (min-width: 414px){
     #text_top{
@@ -83,9 +84,13 @@ hr{
     .textObject{
         font-size: 15px;
     }
+    #image_android{
+        width: 63px;
+
+    }
 }
 
-@media screen and (min-width: 555px){
+@media screen and (min-width: 690px){
     #text_top{
         text-align: center;
     }
