@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="48" viewBox="0 0 95 48">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="93" height="46" x="1" y="1" stroke="#EDF0F1" stroke-opacity=".502" stroke-width="2" rx="10"/>
+        <path fill="#2B69B2" fill-rule="nonzero" d="M49.521 21L49.521 14.857 55.65 14.857 55.65 13.179 49.521 13.179 49.521 7 47.919 7 47.919 13.179 41.65 13.179 41.65 14.857 47.919 14.857 47.919 21z"/>
+        <text fill="#2B69B2" font-family="YekanBakh-Medium, Yekan Bakh" font-size="15" font-weight="400">
+            <tspan x="10.465" y="37">Add page to</tspan>
+        </text>
+    </g>
+</svg>
